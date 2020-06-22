@@ -1,0 +1,2 @@
+# SongLogger
+Spotify song logger
